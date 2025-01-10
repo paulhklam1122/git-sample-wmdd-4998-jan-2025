@@ -1,4 +1,4 @@
 This is the first line
 Second line is here.
-Third line lorem ipsum.
-All good things come in fours.
+This is another third line.
+Feature branch fourth line.
