@@ -1,4 +1,4 @@
 This is the first line
 Second line is here.
-Third line lorem ipsum.
+This is another third line.
 All good things come in fours.
